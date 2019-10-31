@@ -18,3 +18,4 @@ $ go build <file>
 - [4. Constants](https://gobyexample.com/constants) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/constants/constants.go)
 - [5. For](https://gobyexample.com/for) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/for/for.go)
 - [6. If / Else](https://gobyexample.com/if-else) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/if-else/if-else.go)
+- [7. Switch](https://gobyexample.com/switch) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/switch/switch.go)
