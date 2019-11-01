@@ -1,6 +1,6 @@
-## Learn Golang with Go by example
+## Learning Golang with Go by example
 
-Examples by: https://gobyexample.com/
+Examples write by [Mark McGranaghan](https://markmcgranaghan.com/) - [site](https://gobyexample.com/)
 
 For run your programs use the command above:
 ```sh
