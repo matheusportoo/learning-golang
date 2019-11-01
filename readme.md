@@ -27,3 +27,5 @@ $ go build <file>
 - [7. Switch](https://gobyexample.com/switch) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/switch/switch.go)
 
 - [8. Arrays](https://gobyexample.com/arrays) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/arrays/arrays.go)
+
+- [9. Slices](https://gobyexample.com/slices) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/slices/slices.go)
