@@ -32,4 +32,4 @@ $ go build <file>
 
 - [10. Maps](https://gobyexample.com/maps) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/maps/maps.go)
 
-- [10. Range](https://gobyexample.com/range) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/range/range.go)
+- [11. Range](https://gobyexample.com/range) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/range/range.go)
