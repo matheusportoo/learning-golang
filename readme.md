@@ -29,3 +29,5 @@ $ go build <file>
 - [8. Arrays](https://gobyexample.com/arrays) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/arrays/arrays.go)
 
 - [9. Slices](https://gobyexample.com/slices) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/slices/slices.go)
+
+- [10. Maps](https://gobyexample.com/maps) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/maps/maps.go)
