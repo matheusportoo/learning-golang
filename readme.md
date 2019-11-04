@@ -31,3 +31,4 @@ $ go build <file>
 - [16. pointers](https://gobyexample.com/pointers) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/pointers/pointers.go)
 - [17. structs](https://gobyexample.com/structs) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/structs/structs.go)
 - [18. methods](https://gobyexample.com/methods) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/methods/methods.go)
+- [19. interfaces](https://gobyexample.com/interfaces) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/interfaces/interfaces.go)
