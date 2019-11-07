@@ -35,3 +35,4 @@ $ go build <file>
 - [20. errors](https://gobyexample.com/errors) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/errors/errors.go)
 - [21. goroutines](https://gobyexample.com/goroutines) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/goroutines/goroutines.go)
 - [22. channels](https://gobyexample.com/channels) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/channels/channels.go)
+- [23. channel-buffering](https://gobyexample.com/channel-buffering) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/channel-buffering/channel-buffering.go)
