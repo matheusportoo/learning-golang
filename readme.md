@@ -38,3 +38,4 @@ $ go build <file>
 - [23. channel-buffering](https://gobyexample.com/channel-buffering) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/channel-buffering/channel-buffering.go)
 - [24. channel-synchronization](https://gobyexample.com/channel-synchronization) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/channel-synchronization/channel-synchronization.go)
 - [25. channel-directions](https://gobyexample.com/channel-directions) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/channel-directions/channel-directions.go)
+- [26. select](https://gobyexample.com/select) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/select/select.go)
