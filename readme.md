@@ -40,3 +40,4 @@ $ go build <file>
 - [25. channel-directions](https://gobyexample.com/channel-directions) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/channel-directions/channel-directions.go)
 - [26. select](https://gobyexample.com/select) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/select/select.go)
 - [27. timeouts](https://gobyexample.com/timeouts) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/timeouts/timeouts.go)
+- [28. non-blocking-channel-operations](https://gobyexample.com/non-blocking-channel-operations) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/non-blocking-channel-operations/non-blocking-channel-operations.go)
