@@ -42,4 +42,5 @@ $ go build <file>
 - [27. timeouts](https://gobyexample.com/timeouts) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/timeouts/timeouts.go)
 - [28. non-blocking-channel-operations](https://gobyexample.com/non-blocking-channel-operations) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/non-blocking-channel-operations/non-blocking-channel-operations.go)
 - [29. closing-channels](https://gobyexample.com/closing-channels) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/closing-channels/closing-channels.go)
-- [29. range-over-channels](https://gobyexample.com/range-over-channels) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/range-over-channels/range-over-channels.go)
+- [30. range-over-channels](https://gobyexample.com/range-over-channels) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/range-over-channels/range-over-channels.go)
+- [31. timers](https://gobyexample.com/timers) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/timers/timers.go)
