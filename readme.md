@@ -44,3 +44,4 @@ $ go build <file>
 - [29. closing-channels](https://gobyexample.com/closing-channels) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/closing-channels/closing-channels.go)
 - [30. range-over-channels](https://gobyexample.com/range-over-channels) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/range-over-channels/range-over-channels.go)
 - [31. timers](https://gobyexample.com/timers) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/timers/timers.go)
+- [32. tickers](https://gobyexample.com/tickers) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/tickers/tickers.go)
