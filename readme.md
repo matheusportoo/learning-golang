@@ -46,3 +46,4 @@ $ go build <file>
 - [31. timers](https://gobyexample.com/timers) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/timers/timers.go)
 - [32. tickers](https://gobyexample.com/tickers) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/tickers/tickers.go)
 - [33. worker-pools](https://gobyexample.com/worker-pools) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/worker-pools/worker-pools.go)
+- [34. waitgroups](https://gobyexample.com/waitgroups) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/waitgroups/waitgroups.go)
