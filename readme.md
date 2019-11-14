@@ -47,3 +47,4 @@ $ go build <file>
 - [32. tickers](https://gobyexample.com/tickers) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/tickers/tickers.go)
 - [33. worker-pools](https://gobyexample.com/worker-pools) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/worker-pools/worker-pools.go)
 - [34. waitgroups](https://gobyexample.com/waitgroups) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/waitgroups/waitgroups.go)
+- [35. rate-limiting](https://gobyexample.com/rate-limiting) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/rate-limiting/rate-limiting.go)
