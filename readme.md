@@ -49,3 +49,4 @@ $ go build <file>
 - [34. waitgroups](https://gobyexample.com/waitgroups) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/waitgroups/waitgroups.go)
 - [35. rate-limiting](https://gobyexample.com/rate-limiting) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/rate-limiting/rate-limiting.go)
 - [36. atomic-counters](https://gobyexample.com/atomic-counters) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/atomic-counters/atomic-counters.go)
+- [37. mutexes](https://gobyexample.com/mutexes) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/mutexes/mutexes.go)
