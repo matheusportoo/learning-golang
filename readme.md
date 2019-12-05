@@ -52,3 +52,4 @@ $ go build <file>
 - [37. mutexes](https://gobyexample.com/mutexes) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/mutexes/mutexes.go)
 - [38. stateful-goroutines](https://gobyexample.com/stateful-goroutines) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/stateful-goroutines/stateful-goroutines.go)
 - [39. sorting](https://gobyexample.com/sorting) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/sorting/sorting.go)
+- [40. sorting-by-functions](https://gobyexample.com/sorting-by-functions) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/sorting-by-functions/sorting-by-functions.go)
