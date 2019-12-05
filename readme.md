@@ -51,3 +51,4 @@ $ go build <file>
 - [36. atomic-counters](https://gobyexample.com/atomic-counters) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/atomic-counters/atomic-counters.go)
 - [37. mutexes](https://gobyexample.com/mutexes) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/mutexes/mutexes.go)
 - [38. stateful-goroutines](https://gobyexample.com/stateful-goroutines) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/stateful-goroutines/stateful-goroutines.go)
+- [39. sorting](https://gobyexample.com/sorting) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/sorting/sorting.go)
