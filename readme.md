@@ -56,3 +56,4 @@ $ go build <file>
 - [41. panic](https://gobyexample.com/panic) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/panic/panic.go)
 - [42. defer](https://gobyexample.com/defer) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/defer/defer.go)
 - [43. collection-functions](https://gobyexample.com/collection-functions) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/collection-functions/collection-functions.go)
+- [44. string-functions](https://gobyexample.com/string-functions) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/string-functions/string-functions.go)
