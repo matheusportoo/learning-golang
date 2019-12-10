@@ -55,3 +55,4 @@ $ go build <file>
 - [40. sorting-by-functions](https://gobyexample.com/sorting-by-functions) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/sorting-by-functions/sorting-by-functions.go)
 - [41. panic](https://gobyexample.com/panic) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/panic/panic.go)
 - [42. defer](https://gobyexample.com/defer) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/defer/defer.go)
+- [43. collection-functions](https://gobyexample.com/collection-functions) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/collection-functions/collection-functions.go)
