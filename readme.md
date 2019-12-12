@@ -59,3 +59,4 @@ $ go build <file>
 - [44. string-functions](https://gobyexample.com/string-functions) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/string-functions/string-functions.go)
 - [45. regular-expressions](https://gobyexample.com/regular-expressions) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/regular-expressions/regular-expressions.go)
 - [46. json](https://gobyexample.com/json) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/json/json.go)
+- [46. xml](https://gobyexample.com/xml) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/xml/xml.go)
