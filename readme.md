@@ -65,3 +65,4 @@ $ go build <file>
 - [50. time-formatting-parsing](https://gobyexample.com/time-formatting-parsing) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/time-formatting-parsing/time-formatting-parsing.go)
 - [51. random-numbers](https://gobyexample.com/random-numbers) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/random-numbers/random-numbers.go)
 - [52. number-parsing](https://gobyexample.com/number-parsing) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/number-parsing/number-parsing.go)
+- [53. url-parsing](https://gobyexample.com/url-parsing) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/url-parsing/url-parsing.go)
