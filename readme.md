@@ -63,3 +63,4 @@ $ go build <file>
 - [48. time](https://gobyexample.com/time) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/time/time.go)
 - [49. epoch](https://gobyexample.com/epoch) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/epoch/epoch.go)
 - [50. time-formatting-parsing](https://gobyexample.com/time-formatting-parsing) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/time-formatting-parsing/time-formatting-parsing.go)
+- [51. random-numbers](https://gobyexample.com/random-numbers) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/random-numbers/random-numbers.go)
