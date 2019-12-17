@@ -61,4 +61,5 @@ $ go build <file>
 - [46. json](https://gobyexample.com/json) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/json/json.go)
 - [47. xml](https://gobyexample.com/xml) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/xml/xml.go)
 - [48. time](https://gobyexample.com/time) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/time/time.go)
-- [49. time](https://gobyexample.com/epoch) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/epoch/epoch.go)
+- [49. epoch](https://gobyexample.com/epoch) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/epoch/epoch.go)
+- [50. time-formatting-parsing](https://gobyexample.com/time-formatting-parsing) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/time-formatting-parsing/time-formatting-parsing.go)
