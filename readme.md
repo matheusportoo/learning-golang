@@ -67,3 +67,4 @@ $ go build <file>
 - [52. number-parsing](https://gobyexample.com/number-parsing) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/number-parsing/number-parsing.go)
 - [53. url-parsing](https://gobyexample.com/url-parsing) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/url-parsing/url-parsing.go)
 - [54. sha1-hashes](https://gobyexample.com/sha1-hashes) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/sha1-hashes/sha1-hashes.go)
+- [55. base64-encoding](https://gobyexample.com/base64-encoding) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/base64-encoding/base64-encoding.go)
