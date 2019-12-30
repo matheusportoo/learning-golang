@@ -70,3 +70,4 @@ $ go build <file>
 - [55. base64-encoding](https://gobyexample.com/base64-encoding) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/base64-encoding/base64-encoding.go)
 - [56. reading-files](https://gobyexample.com/reading-files) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/reading-files/reading-files.go)
 - [57. writing-files](https://gobyexample.com/writing-files) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/writing-files/writing-files.go)
+- [58. line-filters](https://gobyexample.com/line-filters) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/line-filters/line-filters.go)
