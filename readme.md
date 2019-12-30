@@ -69,3 +69,4 @@ $ go build <file>
 - [54. sha1-hashes](https://gobyexample.com/sha1-hashes) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/sha1-hashes/sha1-hashes.go)
 - [55. base64-encoding](https://gobyexample.com/base64-encoding) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/base64-encoding/base64-encoding.go)
 - [56. reading-files](https://gobyexample.com/reading-files) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/reading-files/reading-files.go)
+- [57. writing-files](https://gobyexample.com/writing-files) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/writing-files/writing-files.go)
