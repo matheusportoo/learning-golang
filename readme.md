@@ -73,3 +73,4 @@ $ go build <file>
 - [58. line-filters](https://gobyexample.com/line-filters) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/line-filters/line-filters.go)
 - [59. file-paths](https://gobyexample.com/file-paths) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/file-paths/file-paths.go)
 - [60. directories](https://gobyexample.com/directories) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/directories/directories.go)
+- [61. temporary-files-and-directories](https://gobyexample.com/temporary-files-and-directories) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/temporary-files-and-directories/temporary-files-and-directories.go)
