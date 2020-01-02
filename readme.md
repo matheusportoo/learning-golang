@@ -12,6 +12,11 @@ If you prefer build your program use:
 $ go build <file>
 ```
 
+For specify the path where you want to save your program use:
+```sh
+$ go build -o <path/file> <file>
+```
+
 - [1. hello world](https://gobyexample.com/hello-world) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/hello-world/hello-world.go)
 - [2. values](https://gobyexample.com/values) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/values/values.go)
 - [3. variables](https://gobyexample.com/variables) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/variables/variables.go)
@@ -75,3 +80,4 @@ $ go build <file>
 - [60. directories](https://gobyexample.com/directories) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/directories/directories.go)
 - [61. temporary-files-and-directories](https://gobyexample.com/temporary-files-and-directories) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/temporary-files-and-directories/temporary-files-and-directories.go)
 - [62. testing](https://gobyexample.com/testing) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/testing/testing.go)
+- [63. command-line-arguments](https://gobyexample.com/command-line-arguments) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/command-line-arguments/command-line-arguments.go)
