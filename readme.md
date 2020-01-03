@@ -84,4 +84,4 @@ $ go build -o <path/file> <file>
 - [64. command-line-flags](https://gobyexample.com/command-line-flags) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/command-line-flags/command-line-flags.go)
 - [65. command-line-subcommands](https://gobyexample.com/command-line-subcommands) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/command-line-subcommands/command-line-subcommands.go)
 - [66. environment-variables](https://gobyexample.com/environment-variables) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/environment-variables/environment-variables.go)
-
+- [67. http-clients](https://gobyexample.com/http-clients) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/http-clients/http-clients.go)
