@@ -89,3 +89,4 @@ $ go build -o <path/file> <file>
 - [69. context](https://gobyexample.com/context) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/context/context.go)
 - [70. spawning-processes](https://gobyexample.com/spawning-processes) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/spawning-processes/spawning-processes.go)
 - [71. execing-processes](https://gobyexample.com/execing-processes) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/execing-processes/execing-processes.go)
+- [72. signals](https://gobyexample.com/signals) - [code](https://github.com/matheusportoo/lerning-golang/blob/master/signals/signals.go)
